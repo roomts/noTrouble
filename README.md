@@ -1,22 +1,3 @@
-<h1>noTrouble</h1><br>
-O noTrouble é um aplicativo de busca de fornecedores para Eventos & Festas.<br><br>
-
-Esse repositio é destinado ao desenvolvimento da Aplicação Web para captação de fornecedores.<br>
-
-Tecnologia que serão utilizadas:<br><br>
-
-Notrouble WebAplication <br>
-Angular 1<br>
-Bootstrap<br>
-Jquery<br>
-NodeJS<br>
-MySQL<br>
-
-Notrouble Mobile Aplication:<br>
-Ionic 3<br>
-TypeScript<br>
-NodeJS<br>
-MySQL<br>
 
 Mecanica UX:<br>
 ![hotsite-fornecedores-1920pix-x-1080pix 1](https://user-images.githubusercontent.com/15364450/33814306-858eca9e-de10-11e7-854a-0db2335ea1b6.jpg)
